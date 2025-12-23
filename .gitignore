@@ -36,8 +36,5 @@ Thumbs.db
 *.log
 logs/
 
-# UV
-uv.lock
-
 # Documentation
 internal-docs/
